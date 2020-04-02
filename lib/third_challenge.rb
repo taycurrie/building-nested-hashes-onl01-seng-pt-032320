@@ -5,10 +5,10 @@ def third_challenge
         {name: "Lord Montague", age: "53"},
         },
       :matriarch => {
-        {name: "Lady Capulet", age: "51"},alue pairs here
+        {name: "Lady Montague", age: "54"},alue pairs here
         },
       :hero => {
-        {name: "Romeo", age: ""}
+        {name: "Romeo", age: "15"}
         },
       :hero_friends => []
    }, 
